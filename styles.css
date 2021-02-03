@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    border: 1px, solid, black;
+}
+
+.tableClass {
+    border-collapse: collapse;
+}
+
+.tableClass th, td {
+    border: 1px solid black;
+}
